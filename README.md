@@ -3,8 +3,22 @@
 An interactive Power BI dashboard analyzing sales, ratings, and outlet performance for **Blinkit — India's Last Minute App**, built to help stakeholders understand how sales and item visibility vary across outlet size, location tier, item type, and fat content category.
 
 ## 🔗 Live Preview
+---
 
-<img width="800" height="457" alt="ScreenRecording2026-07-17073541-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bc8fda32-8b07-4efc-b86a-00add5d06761" />
+## **Screenshots**
+*Include some high-quality screenshots of your dashboard here to visually demonstrate your work.*
+
+---
+
+### **Overall Dashboard**
+![Dashboard Overview](Screenshot/dashboard.png "Dashboard Overview")
+
+### **Sales Trends Visualization**
+![Sales Trends](Screenshot/2page.png "Sales Trends Visualization")
+
+### **Customer Insights**
+![ Insights](Screenshot/3.png "Customer Insights")
+
 
 
 ## 📌 Project Overview
@@ -69,17 +83,6 @@ Retail and quick-commerce operators need visibility into outlet- and item-level 
 
 ## **Screenshots**
 *Include some high-quality screenshots of your dashboard here to visually demonstrate your work.*
-
-
-### **Overall Dashboard**
-![Dashboard Overview](Screenshot/dashboard.png "Dashboard Overview")
-
-### **Sales Trends Visualization**
-![Sales Trends](Screenshot/2page.png "Sales Trends Visualization")
-
-### **Customer Insights**
-![ Insights](Screenshot/3.png "Customer Insights")
-
 
 ---
 
