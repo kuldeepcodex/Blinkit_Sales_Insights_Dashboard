@@ -1,8 +1,8 @@
-# Blinkit Sales & Outlet Performance Dashboard
+# Blinkit Sales Analysis Dashboard
 
 An interactive Power BI dashboard analyzing sales, ratings, and outlet performance for **Blinkit — India's Last Minute App**, built to help stakeholders understand how sales and item visibility vary across outlet size, location tier, item type, and fat content category.
 
-## 🔗 Live Preview
+
 ---
 
 ## **Screenshots**
@@ -63,28 +63,13 @@ Retail and quick-commerce operators need visibility into outlet- and item-level 
 - **Power Query** — data cleaning and transformation
 - Data visualization best practices: slicers, bookmarks/tab navigation, conditional formatting on the summary table
 
-## 👤 Author
-**Vikram Kaushik**
-[LinkedIn](https://linkedin.com/in/vikramkaushik007) · [GitHub](https://github.com/vikram-kaushik)
-
-## **Objectives**
-1. To understand sales trends and their driving factors.
-2. To analyze customer purchasing patterns for targeted marketing.
-3. To showcase proficiency in Power BI and storytelling through data visualization.
-
----
 
 ## **Getting Started**
 1. Download the Power BI file (`BlinkIT_Grocery_Dashboard.pbix`).
 2. Open the file in Power BI Desktop.
 3. Explore the interactive visuals and insights.
 
----
 
-## **Screenshots**
-*Include some high-quality screenshots of your dashboard here to visually demonstrate your work.*
-
----
 
 ## **Conclusion**
 This dashboard highlights the power of **data-driven decision-making** by providing clear, actionable insights into grocery sales and customer behavior. It's a step forward in optimizing business strategies using data visualization.
